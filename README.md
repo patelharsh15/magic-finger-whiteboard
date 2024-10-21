@@ -4,5 +4,5 @@ The Virtual WhiteBoard is a project I made using the OpenCV and Mediapipe Python
 
 DEMO:
 
-![alt text](https://github.com/Stephenwang3801/CV-Virtual-WhiteBoard/blob/main/img/ezgif.com-gif-maker.gif)
-![alt text](https://github.com/Stephenwang3801/CV-Virtual-WhiteBoard/blob/main/img/HelloWorld.png)
+![alt text](https://github.com/patelharsh15/magic-finger-whiteboard/blob/main/img/ezgif.com-gif-maker.gif)
+![alt text](https://github.com/patelharsh15/magic-finger-whiteboard/blob/main/img/HelloWorld.png)
